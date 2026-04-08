@@ -20,3 +20,5 @@ class Calculator
 		return a - b;
 	}
 }
+//adnan nur kholis
+//25.11.6582
